@@ -1,4 +1,4 @@
-# You can test output web-design [here](https://lnguyen336.github.io-belly-button-challenge)
+# You can test output web-design [here](https://lnguyen336.github.io/lnguyen336.github.io-belly-button-challenge/)
 
 # Unit 14 Homework: Belly Button Biodiversity
 
